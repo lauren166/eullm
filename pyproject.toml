@@ -1,0 +1,5 @@
+[project]
+name = "eullm"
+version = "0.1.0"
+description = "Open-source platform for creating, distributing and running sovereign EU-compliant LLMs. Verticalize any model for your domain, language and brand. AI Act ready."
+requires-python = ">=3.10"
